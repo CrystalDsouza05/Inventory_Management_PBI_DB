@@ -1,4 +1,4 @@
-# Inventory_Management_PBI_DB
+# Inventory Management Dashboard
 
 ### 📊 [Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiNGI1NGJjOTEtZTI2Yy00NjIzLWE5ZGMtNmMyNDhiMWQxNGZiIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
 
