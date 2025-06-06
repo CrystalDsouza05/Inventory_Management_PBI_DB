@@ -12,8 +12,6 @@ Snap of Dashboard Pages (4)
 
 ![Image](https://github.com/user-attachments/assets/9425533b-1129-4ad8-935d-5eec6af74573)
 
-![Image](https://github.com/user-attachments/assets/800b8efb-ce85-4a69-ae05-2191c5ddf128)
-
 ![Image](https://github.com/user-attachments/assets/25232590-f460-4458-8bc5-9339389d8ae7)
 
 Information Button
