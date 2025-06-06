@@ -6,7 +6,7 @@
 
 This Power BI dashboard offers a sleek, modern look with a dark theme and minimal color palette for enhanced clarity and visual appeal. Designed for efficient data exploration, it features a Filter Pane Button for easy slicer adjustments and an Information Button for seamless navigation. The dashboard provides comprehensive insights into inventory trends, stock levels, and optimization strategies, enabling users to make informed decisions and streamline inventory management effectively. 🚀
 
-Snap of Dashboard Pages (4)
+Snap of Dashboard Pages (3)
 
 ![Image](https://github.com/user-attachments/assets/5e5b0b81-7ed1-45e2-8e6b-0139d582d1d7)
 
