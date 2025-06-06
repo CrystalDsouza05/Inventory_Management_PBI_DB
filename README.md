@@ -15,8 +15,11 @@ Snap of Dashboard Pages (4)
 ![Image](https://github.com/user-attachments/assets/25232590-f460-4458-8bc5-9339389d8ae7)
 
 Information Button
+
 ![Image](https://github.com/user-attachments/assets/2c4d630e-fdb9-413f-a8a6-dca8f960549e)
 
+
 Filter Button for slicers
+
 ![Image](https://github.com/user-attachments/assets/6c7a0e25-f6b9-4e08-b401-2e4c341a3b2d)
 
